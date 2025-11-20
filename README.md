@@ -24,3 +24,7 @@ Run the following:
 ```bash
 cargo test
 ```
+## Collaboraters:
+Logan Pageler
+Eilon Weiner
+Hannibal Oyebode
