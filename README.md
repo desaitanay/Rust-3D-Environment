@@ -25,6 +25,6 @@ Run the following:
 cargo test
 ```
 ## Collaboraters:
-Logan Pageler
-Eilon Weiner
+Logan Pageler,
+Eilon Weiner,
 Hannibal Oyebode
